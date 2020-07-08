@@ -30,7 +30,7 @@ education:
   - course: PhD in HCI / SE 
     institution: TBD
     year: 2021 - TBD
-  - course: BSc in Electrical and Computer Engineering
+  - course: BSc in Electrical and Computer Engineering, Minor in Human-Computer Interaction
     institution: Carnegie Mellon University
     year: 2020
 
